@@ -3,10 +3,10 @@
 </p>
 
 # VAGAS DESENVOLVIMENTO DUO STUDIO
-
-## SQUAD GALINHOS
-## - Backend
-## - Frontend
+Espaço para a divulgação de vagas para desenvolvedores da DUO STUDIO 
+## SQUAD GALINHOS 🐔🐓
+### - Backend Engineer
+### - Frontend Engineer
 ### STACK
 - Fundamentos base para Front end e Back end.
 	- Javascript (DOM manipulation, Promisses, Callbacks, Async/Await, Fetch e boas práticas de programação)
